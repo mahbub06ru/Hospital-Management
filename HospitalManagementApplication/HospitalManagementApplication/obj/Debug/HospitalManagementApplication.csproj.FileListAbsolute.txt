@@ -1,0 +1,75 @@
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe.config
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.pdb
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csprojResolveAssemblyReference.cache
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.Properties.Resources.resources
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DepartmentEntryForm.resources
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DiseaseEntryForm.resources
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorEntryForm.resources
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorInformationForm.resources
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.HospitalManagementForm.resources
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientEntryForm.resources
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientsInformationForm.resources
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csproj.GenerateResource.Cache
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.exe
+c:\users\anik\documents\visual studio 2012\Projects\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.pdb
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe.config
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.pdb
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.Properties.Resources.resources
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DepartmentEntryForm.resources
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DiseaseEntryForm.resources
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorEntryForm.resources
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorInformationForm.resources
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.HospitalManagementForm.resources
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientEntryForm.resources
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientsInformationForm.resources
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csproj.GenerateResource.Cache
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.exe
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.pdb
+F:\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csprojResolveAssemblyReference.cache
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe.config
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.exe
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.pdb
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csprojResolveAssemblyReference.cache
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.Properties.Resources.resources
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DepartmentEntryForm.resources
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DiseaseEntryForm.resources
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorEntryForm.resources
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorInformationForm.resources
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.HospitalManagementForm.resources
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientEntryForm.resources
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientsInformationForm.resources
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csproj.GenerateResource.Cache
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe
+E:\jewel rana\Practice - Copy\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.pdb
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe.config
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.exe
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.pdb
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.pdb
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DepartmentEntryForm.resources
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DiseaseEntryForm.resources
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorEntryForm.resources
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorInformationForm.resources
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.HospitalManagementForm.resources
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientEntryForm.resources
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientsInformationForm.resources
+C:\Users\Web App Develop .Net\Desktop\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csproj.GenerateResource.Cache
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe.config
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.exe
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.pdb
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.exe
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\bin\Debug\HospitalManagementApplication.pdb
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csprojResolveAssemblyReference.cache
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.Properties.Resources.resources
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DepartmentEntryForm.resources
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DiseaseEntryForm.resources
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorEntryForm.resources
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.DoctorInformationForm.resources
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.HospitalManagementForm.resources
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientEntryForm.resources
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.UI.PatientsInformationForm.resources
+H:\Final\HospitalManagementApplication\HospitalManagementApplication\obj\Debug\HospitalManagementApplication.csproj.GenerateResource.Cache
